@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to = "https://coda.io/d/_d7Ee5YHYoEI/devUpdates_suXD13UW"
+  status = 301
+
+[[redirects]]
+  from = "/1"
+  to = "https://coda.io/d/_d7Ee5YHYoEI/devUpdate-1_sue9pWTQ"
+  status = 301
